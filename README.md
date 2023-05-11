@@ -17,7 +17,7 @@ https://github.com/Belunka/SPIT-Open-Beta-Early-Access-/raw/main/SPIT.apk)
 
 
 3) μόλις τελειώσει η εγκατάσταση θα σας εμφανιστεί αυτό το εικονίδιο.
-![scrn2.png](scrn2.png)
+![scrn2.jpg](scrn2.jpg)
 
 Τέλος, Σε περίπτωση που αντιμετωπίζετε κάποιο σφάλμα με την εφαρμογή , βεβαιωθείτε πρώτα ότι έχετε σύνδεση στο δίκτυο. Μπορείτε επίσης να δηλώσετε το σφάλμα της εφαρμογής είτε από χρησιμοποιώντας τον github λογαριασμό σας και πηγαίνοντας στην καρτέλα issues (https://github.com/Belunka/SPIT-Open-Beta-Early-Access-/issues) Ή μπορείτε να μας στείλετε email στο belunka2023@gmail.com. 
 
